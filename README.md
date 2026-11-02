@@ -25,3 +25,14 @@ Statistical analysis of noise levels across 7 sites in Dhaka, based on a primary
 Abdullah Al Rafi Shakib, BSc in Statistics, Jagannath University, Dhaka
 
 Email: alrafisakib07@gmail.com
+
+
+## Repository Structure
+
+- `data/`: Cleaned survey data with codebook (Excel) and SPSS data files
+- `reports/`: Interpretations of Chi-square tests, logistic regression, and noise measurement analysis, along with the SPSS output and project presentation
+
+## Data
+
+- **Perception survey:** 30 respondents
+- **Noise measurements:** 63 readings across 7 locations in Dhaka (Elephant Road, Kawran Bazar, Gulistan, Keraniganj, New Market, Dhanmondi, Panthapath)
