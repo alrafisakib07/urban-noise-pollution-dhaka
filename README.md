@@ -1,5 +1,7 @@
 # Urban Noise Pollution in Dhaka
 
+![Graphical abstract](graphical-abstract.png.png)
+
 Statistical analysis of noise levels across 7 sites in Dhaka, based on a primary field survey.
 
 **Tools:**   SPSS, Excel  
