@@ -14,7 +14,7 @@ Statistical analysis of noise levels across 7 sites in Dhaka, based on a primary
 - A 5-minute motorcycle test averaged **103.3 dB(A)**.
 - **90%** of respondents reported noise-related disturbance, headaches, or sleep problems.
 
-- ## Noise Levels by Location (mean AVG, dB(A))
+## Noise Levels by Location (mean AVG, dB(A))
 
 | Location | Mean (SD) |
 |---|---|
