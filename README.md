@@ -48,7 +48,7 @@ Contact: alrafisakib07@gmail.com
 ## Repository Structure
 
 - `data/`: Cleaned survey data with codebook (Excel) and SPSS data files
-- `reports/`: Interpretations of Chi-square tests, logistic regression, and noise measurement analysis, along with the SPSS output and project presentation
+- `Reports/`: Interpretations of Chi-square tests, logistic regression, and noise measurement analysis, along with the SPSS output and project presentation
 
 ## Data
 
